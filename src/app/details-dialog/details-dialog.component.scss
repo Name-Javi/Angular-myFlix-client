@@ -1,7 +1,3 @@
-.signup-card {
-  background-color: #e5e5e5;
-  border: 1px solid black;
-}
 .close-icon-container {
   display: flex;
   flex-direction: row;
@@ -10,8 +6,12 @@
   top: -5px;
   right: 1px;
 }
-.sign-up-button {
-  margin-top: 5px;
+
+.details-dialog {
+  background-color: #e5e5e5;
   border: 1px solid black;
-  width: 100px;
+}
+
+h1 {
+  font-family: Bebas Neue, Haettenschweiler, "Arial Narrow Bold", sans-serif;
 }
